@@ -1,0 +1,22 @@
+body {
+  background-color: #ebf0f6;
+}
+
+h1 {
+  font-family: Georgia, serif;
+  color: #132238;
+
+}
+
+h3 {
+  font-family: "Times New Roman",times,serif;
+  color: #364e68;
+
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: #98ccd3;
+  border-width: 5px;
+  width: 5%;
+}
